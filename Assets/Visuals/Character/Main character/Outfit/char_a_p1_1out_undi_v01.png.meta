@@ -1,0 +1,1581 @@
+fileFormatVersion: 2
+guid: 4f61581d8aa8eec4696fb42d6cac214d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unw_iddle_down_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 474
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5db9f019ea8448b55999130cfea16
+      internalID: -88546873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_down_02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 476
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cc54a9d039c1489e64fbcb22fceae
+      internalID: -1623728063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_down_02
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 474
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d58688c617bb644b2194076cccb576
+      internalID: -520870201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_down_03
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 476
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422007c7d600f154789e320c9d24325e
+      internalID: -144211165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_down_01
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 472
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695ffd0e5ede3a44a55baa3efccd87a
+      internalID: 1399053179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_down_01
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 475
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b90fb4e5365b294e91dbd859c657f48
+      internalID: -1275673638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_iddle_up_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 411
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0ab83f42facee4ba77d71b38bc4e64
+      internalID: -630408917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_up_01
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 410
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030ed267ecc1ef42a6b148e39acb717
+      internalID: -924969645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_up_02
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 410
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2a719b1b26ddf45b4e6188fdff6de3
+      internalID: -665472780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_down_02
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 471
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee2e76443581f4a9ef913fc517a8b5
+      internalID: 1353184942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_up_01
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 411
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddda2ac370fcf84c806fad5eacfe8be
+      internalID: -962566184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_up_02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 408
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d6844667707d4cb90de83903b598c
+      internalID: 1479312915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_up_01
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 407
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379b089370f15304a8d16116dd273e4c
+      internalID: 2141249807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_up_02
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 408
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487b1bd4bc622ed4fa5c5a89daee89a2
+      internalID: -1480545279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_up_03
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 411
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ee8d0a463ae794a900cb6810702a3b
+      internalID: 2016779975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_iddle_right_01
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 347
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05db8fd2225e0da498147629cc00d839
+      internalID: 1473089643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_right_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 348
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be66f774b9b375940b75e3e3f94dd33d
+      internalID: -550163365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_right_02
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 347
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9697b06b347303f4aae4b8895455cf45
+      internalID: -863601695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_right_01
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 348
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b678cf745f478e47add9f58a8fcef71
+      internalID: 1943145006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_right_01
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 346
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f43b1c64eed96741a52f135710f0e16
+      internalID: 380175286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_right_02
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 345
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb0012d16e82ba48a3115937497f3a1
+      internalID: -212682253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_right_03
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 347
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642b716d8e0d17948ae25e04073d4a73
+      internalID: -1056286018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_right_02
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 346
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f742f27e6fbab4aaf1bd4f2cb4a520
+      internalID: 1611810598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_iddle_left_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 283
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23da50911b6dbae42b87c996d0424894
+      internalID: -1743888156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_left_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 284
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2e63c314efcc4c9babcb2cd0de5f5
+      internalID: 816609996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_left_02
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 283
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32e7a3b3d4a7a74daa2785f6b842fcc
+      internalID: -524646177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_left_01
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 285
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc4bbda2bbaaa5458fa363eed90d40b
+      internalID: -1715716540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_left_01
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 283
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391c2d39c034316439bd86b18cf55e4a
+      internalID: -732775820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_left_02
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 282
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66295f020e4244249b2581d8c8446c7a
+      internalID: 1160745615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_jump_left_03
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 284
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fbc08c38daa2498cf075c5cc2c687
+      internalID: 606409682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_pull_left_02
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 283
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09718190ddbff646b01fdb31879278d
+      internalID: 1322894966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 218
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d0706a7da4d264b8ea1519d74938c0
+      internalID: 1174511820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_02
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 218
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989e736e73daeb8429f056d8e2285781
+      internalID: -411876090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_03
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805c9b8cbde7246448f43b649e4493b8
+      internalID: -2104778594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_04
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 218
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5cf98a621456a448c3177e8a64278a
+      internalID: -326238898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_05
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 218
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7130b4b440395be40927ce2c9c8eb6c0
+      internalID: -1432662498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_down_06
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 218
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512e1f7bdb0d37478b283e657d0b1a4
+      internalID: -1369387043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_down_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814d1cb12e861d942a79b78999f92fea
+      internalID: -1221089431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_down_02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 224
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b9419d7a93f24f8d5266dec7b55f7
+      internalID: 584343391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 155
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c7a7c3c436ab847ae021438fc2e66d
+      internalID: 2075072134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_02
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87110c7fe3d9d748a5c31c150131969
+      internalID: 1904304769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_03
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c9f3375b3f06b47be720d3093d4c6f
+      internalID: 1503608982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_04
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 153
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97984c691da294592f87f3305f05e3
+      internalID: 796292946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_05
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 156
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4d0a9ef7725a649a7e2ca11f8191db
+      internalID: -1221861255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_up_06
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 155
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0422b65ed8d5744bea0fce2a8e8083
+      internalID: -1699037175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_up_01
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecff809394f6ff45bc74d7d727dc4cf
+      internalID: -266756987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_up_02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 159
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6593b16eb829a04890326e4eb8b38a8
+      internalID: -911464833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_02
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 92
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee9363db4df278478f208cb9ac61fda
+      internalID: 1101355746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_01
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ec1f75a24ff764a85f92bf8e298337
+      internalID: 1697745079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_05
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 91
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d71c7227bd30e4c869a8bd63817351
+      internalID: 467717576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_right_01
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 97
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91170193c4ccf1b418735928c712db18
+      internalID: -1860216040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_right_02
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 95
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a44c590c669e74293b0120646ebd22
+      internalID: -849791001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 91
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b222115c62729af489427f30caa6eeda
+      internalID: -892784603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5040ad6d034b3a0459d859b504aab9b1
+      internalID: -235125432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_05
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2a868c246f2e142998051277426d2a
+      internalID: -524289333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_left_01
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 33
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687527c7d60d5be4e9a1edb4249ea97b
+      internalID: -952232121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_run_left_02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 31
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6beccd71e94e7c40bb5fb3fb700a692
+      internalID: -1827253756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 27
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b5d58efbd992e4b97c01a1660a8b91
+      internalID: 1670966683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_03
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 92
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3567c8ed516fc848abe517a6147115b
+      internalID: -1994397264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_right_04
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 91
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9979be6354781d645b5f02db14e4d41a
+      internalID: 231540976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_04
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5101a6bbc6b56684797d560d0d70ed89
+      internalID: -170714970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_03
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6fbdd1fb84f8248a9eac81c50e6555
+      internalID: -1112434606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_walk_left_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feaa03de1425007448e858924076a860
+      internalID: -1169234718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unw_push_down_01
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 472
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5008ccfa69da420419fb1e6142cd2ad0
+      internalID: -1877429226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char_a_p1_1out_undi_v01_13: -299793574
+      char_a_p1_1out_undi_v01_16: -1166268826
+      char_a_p1_1out_undi_v01_22: -1139797233
+      char_a_p1_1out_undi_v01_26: 1962247327
+      char_a_p1_1out_undi_v01_28: -1859552182
+      char_a_p1_1out_undi_v01_33: 515812500
+      char_a_p1_1out_undi_v01_37: -56609060
+      char_a_p1_1out_undi_v01_39: 553296356
+      char_a_p1_1out_undi_v01_4: 1918367292
+      char_a_p1_1out_undi_v01_48: -846121627
+      char_a_p1_1out_undi_v01_49: -638294825
+      char_a_p1_1out_undi_v01_50: -1296744944
+      char_a_p1_1out_undi_v01_51: 1838421133
+      char_a_p1_1out_undi_v01_52: 424034545
+      char_a_p1_1out_undi_v01_53: -1453376264
+      char_a_p1_1out_undi_v01_60: 1535574976
+      char_a_p1_1out_undi_v01_61: -1576061493
+      char_a_p1_1out_undi_v01_65: 1200248889
+      char_a_p1_1out_undi_v01_68: -1271342429
+      char_a_p1_1out_undi_v01_74: -1270413222
+      unw_iddle_down_01: -88546873
+      unw_iddle_left_01: -1743888156
+      unw_iddle_right_01: 1473089643
+      unw_iddle_up_01: -630408917
+      unw_jump_down_01: -1275673638
+      unw_jump_down_02: -520870201
+      unw_jump_down_03: -144211165
+      unw_jump_left_01: -732775820
+      unw_jump_left_02: 1160745615
+      unw_jump_left_03: 606409682
+      unw_jump_right_01: 380175286
+      unw_jump_right_02: -212682253
+      unw_jump_right_03: -1056286018
+      unw_jump_up_01: 2141249807
+      unw_jump_up_02: -1480545279
+      unw_jump_up_03: 2016779975
+      unw_pull_down_01: 1399053179
+      unw_pull_down_02: -1623728063
+      unw_pull_left_01: -1715716540
+      unw_pull_left_02: 1322894966
+      unw_pull_right_01: 1943145006
+      unw_pull_right_02: 1611810598
+      unw_pull_up_01: -962566184
+      unw_pull_up_02: 1479312915
+      unw_push_down_01: -1877429226
+      unw_push_down_02: 1353184942
+      unw_push_left_01: 816609996
+      unw_push_left_02: -524646177
+      unw_push_right_01: -550163365
+      unw_push_right_02: -863601695
+      unw_push_up_01: -924969645
+      unw_push_up_02: -665472780
+      unw_run_down_01: -1221089431
+      unw_run_down_02: 584343391
+      unw_run_left_01: -952232121
+      unw_run_left_02: -1827253756
+      unw_run_right_01: -1860216040
+      unw_run_right_02: -849791001
+      unw_run_up_01: -266756987
+      unw_run_up_02: -911464833
+      unw_walk_down_01: 1174511820
+      unw_walk_down_02: -411876090
+      unw_walk_down_03: -2104778594
+      unw_walk_down_04: -326238898
+      unw_walk_down_05: -1432662498
+      unw_walk_down_06: -1369387043
+      unw_walk_left_01: -235125432
+      unw_walk_left_02: -1169234718
+      unw_walk_left_03: -1112434606
+      unw_walk_left_04: -170714970
+      unw_walk_left_05: -524289333
+      unw_walk_left_06: 1670966683
+      unw_walk_right_01: 1697745079
+      unw_walk_right_02: 1101355746
+      unw_walk_right_03: -1994397264
+      unw_walk_right_04: 231540976
+      unw_walk_right_05: 467717576
+      unw_walk_right_06: -892784603
+      unw_walk_up_01: 2075072134
+      unw_walk_up_02: 1904304769
+      unw_walk_up_03: 1503608982
+      unw_walk_up_04: 796292946
+      unw_walk_up_05: -1221861255
+      unw_walk_up_06: -1699037175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

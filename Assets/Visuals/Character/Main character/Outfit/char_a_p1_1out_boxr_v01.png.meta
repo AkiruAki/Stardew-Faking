@@ -1,0 +1,1562 @@
+fileFormatVersion: 2
+guid: 2869684e1c93daa4197c305f0b9a79aa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: unm_iddle_down_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 474
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd1fec6d53afe946bc923b4fe50c8be
+      internalID: 919563708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_down_02
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 474
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710712dc4bd57404482d4c5d56e38224
+      internalID: 282931278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_down_03
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 475
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcd6d6db419ec243822facaef0f7591
+      internalID: -2061279852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_iddle_up_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 411
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64963e4bd865aac4b89d49319558a7f1
+      internalID: -2064070811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_up_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 410
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6489d2c83f65b9e4b886adb1ac4b91e7
+      internalID: -1795149088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_up_02
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 411
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761e048a48ea1c488d36a387c8ca20c
+      internalID: -1123326650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_up_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 408
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be3a25526650c740aef685128c9375f
+      internalID: 895736256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_up_02
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 408
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cff239f88bba24a956d0068343eb05
+      internalID: -1695351390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_up_03
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 411
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a9c88052462148840a5ed1da0a62a
+      internalID: 2097674506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_iddle_right_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 345
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5541b97bd99b24ca256aecd9224ab1
+      internalID: -713566556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_right_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 346
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a8578eeb606044b988666dc86e7c6
+      internalID: 107049781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_right_02
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 345
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73bab024d9ac2b499fb3d37e7526a5f
+      internalID: 212796041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_right_01
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 347
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee536e65ea1e44097b03e3443fbc34
+      internalID: 1751045906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_right_02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 345
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f68dd841b0817e4b98c7b7b5a64350a
+      internalID: -64641005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_right_01
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 346
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b8f691132650d4da60027445574ef9
+      internalID: -724124690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_right_02
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 343
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e58c6e838cc6f2499daffe47d08f175
+      internalID: -447947490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_right_03
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 348
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67152859620d34140b27ff7b9b50430e
+      internalID: 121327377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_iddle_left_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 281
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664df08e7860904a9aa42eefdbd4d78
+      internalID: 1690972467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_left_01
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a993e335896054a85c0ae185a312da
+      internalID: 2059745059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_left_02
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241dfb863c6fef4faa6d6d11b33f8df
+      internalID: -38399843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_left_01
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 283
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f409cb2f6902345bfa394b992d74b0
+      internalID: -535283479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_left_02
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 281
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a452731351eb3f849ad29575c885c6ab
+      internalID: -296242346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_left_01
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 282
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04b29a838922d49a7398640188344d
+      internalID: -2132901455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_left_02
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 279
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90d06826620af49b83b8de508bdeee
+      internalID: -1832684233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_left_03
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 284
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba9f88c6c1b63f46ad1d9559ee0270e
+      internalID: -628835633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_01
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 219
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506bb18f31d6e96409305fcf2ec62f6e
+      internalID: -1672600816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_04
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 219
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b82f15cb9fef449843a77284ffc4a5
+      internalID: 1735977162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_down_01
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 222
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073715e2ea202164aa5bc57830d9ed19
+      internalID: -600546241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_down_02
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 222
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba0c36ed09e5d1419bae2fc646a8ed2
+      internalID: -1349625376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 218
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1cf75bb99af9e47b67cbf6f99e1fe2
+      internalID: -467049971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_03
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 218
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6c6557fb2a3ca4096c1bb737b807ea
+      internalID: 987825665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_05
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 218
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2b0e19e0a8c041857e3b110d36bf0
+      internalID: -549318328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_down_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 218
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aea883cc76d5374193b7ac56459cdd3
+      internalID: 1604714802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8e7663d07f0649b668fa0f532667f
+      internalID: -385964985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_02
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 155
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11483e827adb9fb48882fbfd31beddd2
+      internalID: -1123792671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_03
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 155
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27e1bba5f3072a4898f28a99bc3ed03
+      internalID: 1233390909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_04
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09eb1e984637614c86af95abf5397bb
+      internalID: -2004355699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_05
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 155
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a061c0ec3d26c94dbe381ba5ccbcea9
+      internalID: 1188279604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_up_06
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 155
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4325aab97ac0f40af6a54042e8fa05
+      internalID: -322843767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_up_01
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 159
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a6af4a48b63c4cb105b964fe8c7bd
+      internalID: -1336274592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_up_02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 159
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb7d4efc5400cb4498c29377398e913
+      internalID: -1396247084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_01
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 90
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a0d6ad09f7e334bb6b488ea6dda20e
+      internalID: -1603537548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_02
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 91
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c47b4266f11faf43ac476ffe014f948
+      internalID: 1631596189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_03
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 91
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a290cddb0c3a864c8ee6878f68f2a06
+      internalID: 26477561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_04
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 90
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b6e20a57c8ec1419f5b9f69cb8b043
+      internalID: 263670034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_05
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f83d918475677643ab0612614de7d05
+      internalID: -1042640815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_right_06
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 89
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b619152e1ea504ca94492fef3edd7d
+      internalID: 2079827361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_right_01
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 93
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95e71e4695027649b102b81a5d5c26d
+      internalID: 836879112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_right_02
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 93
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a469281b1dbcf3449cafc0c16753db3
+      internalID: 794605286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_01
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e191d81971742c4c9a330d399201aa2
+      internalID: 2055657618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_02
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5366712e76894234196e3ae371963d82
+      internalID: -1344009964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_03
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 27
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2a9aa08d780f44596dea248d72fab2
+      internalID: 188330092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_04
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 26
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb05a4acc3d6204aa403d48c7fdf1b8
+      internalID: 1942306906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_05
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 26
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1309c3c08239264ca03cb70c61b2e8e
+      internalID: 406164767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_walk_left_06
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 25
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c927b74179ff69c4d85dc6bafcddbc62
+      internalID: -92187323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_left_01
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 29
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a1fd93aa8577d478dbdb761cb85946
+      internalID: -1766244718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_run_left_02
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 29
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca1508a9b069e94097e4c8e29c17261
+      internalID: 411671281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_up_02
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 409
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b43a21a54cabb41a3e9f450618c9cc
+      internalID: -1124431781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_up_01
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 410
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04763d1f9d787fd48bb352eb9bb5b82d
+      internalID: 1555375840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_jump_down_01
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 473
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffe605f4c03e3e4f808e4b029cf67f5
+      internalID: 2073193190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_down_01
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 474
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3478fd9023df4e047b22fa7fda3d3014
+      internalID: -209198077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_push_down_02
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 474
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255cde2b5a97063498d54998cc65929d
+      internalID: 1802769166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_down_01
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 474
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad146488204c8444b873bd0e5a684a4e
+      internalID: -295728198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: unm_pull_down_02
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 474
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2326f68b8162eb84f85dab4b443947d2
+      internalID: 1109304933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char_a_p1_1out_boxr_v01_60: 34305640
+      unm_iddle_down_01: 919563708
+      unm_iddle_left_01: 1690972467
+      unm_iddle_right_01: -713566556
+      unm_iddle_up_01: -2064070811
+      unm_jump_down_01: 2073193190
+      unm_jump_down_02: 282931278
+      unm_jump_down_03: -2061279852
+      unm_jump_left_01: -2132901455
+      unm_jump_left_02: -1832684233
+      unm_jump_left_03: -628835633
+      unm_jump_right_01: -724124690
+      unm_jump_right_02: -447947490
+      unm_jump_right_03: 121327377
+      unm_jump_up_01: 895736256
+      unm_jump_up_02: -1695351390
+      unm_jump_up_03: 2097674506
+      unm_pull_down_01: -209198077
+      unm_pull_down_02: 1802769166
+      unm_pull_left_01: -535283479
+      unm_pull_left_02: -296242346
+      unm_pull_right_01: 1751045906
+      unm_pull_right_02: -64641005
+      unm_pull_up_01: 1555375840
+      unm_pull_up_02: -1124431781
+      unm_push_down_01: 1109304933
+      unm_push_down_02: -1795149088
+      unm_push_left_01: 2059745059
+      unm_push_left_02: -38399843
+      unm_push_right_01: 107049781
+      unm_push_right_02: 212796041
+      unm_push_up_01: -1795149088
+      unm_push_up_02: -1123326650
+      unm_run_down_01: -1349625376
+      unm_run_down_02: -1766244718
+      unm_run_left_01: 411671281
+      unm_run_left_02: 836879112
+      unm_run_right_01: 794605286
+      unm_run_right_02: -1336274592
+      unm_run_up_01: -1396247084
+      unm_run_up_02: -1672600816
+      unm_walk_down_01: -467049971
+      unm_walk_down_02: 987825665
+      unm_walk_down_03: 1735977162
+      unm_walk_down_04: -549318328
+      unm_walk_down_05: 1604714802
+      unm_walk_down_06: 2055657618
+      unm_walk_left_01: -1344009964
+      unm_walk_left_02: 188330092
+      unm_walk_left_03: 1942306906
+      unm_walk_left_04: 406164767
+      unm_walk_left_05: -92187323
+      unm_walk_left_06: -1603537548
+      unm_walk_right_01: 1631596189
+      unm_walk_right_02: 26477561
+      unm_walk_right_03: 263670034
+      unm_walk_right_04: -1042640815
+      unm_walk_right_05: 2079827361
+      unm_walk_right_06: -385964985
+      unm_walk_up_01: -1123792671
+      unm_walk_up_02: 1233390909
+      unm_walk_up_03: -2004355699
+      unm_walk_up_04: 1188279604
+      unm_walk_up_05: -322843767
+      unm_walk_up_06: -295728198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

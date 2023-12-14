@@ -1,0 +1,1561 @@
+fileFormatVersion: 2
+guid: 80e8009da8937b54abac9ba6f83f4ad8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hairm_iddle_down
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 489
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b474f3fa304034298caded4d245325
+      internalID: -1709368022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_down_01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 485
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353926b6cebbcb84bbc011226f732f23
+      internalID: -785569630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_down_02
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 489
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c84e05af84c24993ab783820bd9e0
+      internalID: 1056836155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_down_01
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 481
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e81bbb390b2a48a4c32e049cc059b
+      internalID: 631279155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_down_02
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 491
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd54d1a360ff46e4c812ee9f06af0eb0
+      internalID: -505140523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_down_03
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 488
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33011bd1a033a94b889a09d36d982ba
+      internalID: 711528148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_down_01
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 479
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc080f2fb7628e40bf74d1627071033
+      internalID: -871268863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_down_02
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 479
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e322c59a25e7540438c954747d50c8fe
+      internalID: -1918649492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_iddle_up
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 424
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a44008ecaedd1546814f718bcce2e72
+      internalID: 1441270887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_up_01
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 422
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca9445d91f3d11448c95a7dac43e5e0
+      internalID: -507230888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_up_02
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60efd4984fcf8a34a8a0bb51eefcc3d2
+      internalID: -616614282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_up_01
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b74127916b2d64ab857a69fa789a58
+      internalID: 1477666004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_up_02
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 419
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c66ba5136610e4a81b0d2e0e62f765
+      internalID: -1257432779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_up_01
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 419
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11139bc26b24d20499f0747a26d20618
+      internalID: -487773668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_up_02
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 423
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7ffb79cbcf5e940828b6435968b748
+      internalID: -2117496388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_up_03
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 422
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610f1d528e36f24ebcf8c05d77e64de
+      internalID: 1559141464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_iddle_right
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 360
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032eed39c381e2348ba20a32b7e1f2a9
+      internalID: 315372655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_right_01
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 360
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b50f4cda31d8e4d8cec9edc461e9cf
+      internalID: -1929318477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_right_02
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 359
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e3edd7d96ba384cb28e32886d8237b
+      internalID: -2114470041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_right_01
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 360
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8752b73ffd26a324a8737848a9c96b90
+      internalID: -1938576185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_right_02
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 360
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bc3ecacced70c479ceeb350d179d4c
+      internalID: -1036260071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_right_01
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 356
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7c253b59702540a8832a8100fdd8a
+      internalID: -628692564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_right_02
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 363
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2bb33e9b3192149b2bd18f6af92f35
+      internalID: 833519771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_right_03
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 359
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440bfc8138711264ba88d94578601d1a
+      internalID: 1989564327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_iddle_left
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 296
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73a01fa810ee7945b885f0fca196d34
+      internalID: -1253656998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_left_01
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 296
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c93c9a6bb1b34daf2cbaf6a7d06db
+      internalID: 623640903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_push_left_02
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a653bd13e58a264d925a8eaed97dfd1
+      internalID: -1603353836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_left_01
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8a99e35b52428429727e38e50d3536
+      internalID: -1028624985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_pull_left_02
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 296
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6014b5fd9d0f44790b69fa60964518
+      internalID: -14896393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_left_01
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 292
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7aa53b3f5837146a0fdb571cfa554a
+      internalID: -1460957229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_left_02
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 299
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec9a758a66808945a37286a1f4aecdb
+      internalID: -285864606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_jump_left_03
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 295
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230e13bd1a1ef0343810909f13425fa4
+      internalID: 1385001741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_01
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4181b2321b05c4885eceb4aed526a9
+      internalID: -712375713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_02
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 233
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a85fb771ff5844cb30c1eafcbff375
+      internalID: -158610198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_03
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 232
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ce09d8c332e774d90d35b641b3d3ae
+      internalID: 275220167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_04
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21658003f570ec64c9bfff2a677e227a
+      internalID: -1391435329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_05
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 233
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d352e65a42664345b6b9ebb93665009
+      internalID: -2002657211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_down_06
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 232
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be369b95a2bb3a94ea346963b5113e83
+      internalID: 1864109624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_down_01
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 234
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57a2aef3a987204a87aade78fcd2873
+      internalID: -1235906189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_down_02
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 234
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcc6b6beef09074883380f6aff5e37a
+      internalID: -1995569682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_01
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776744dee50dc194dafc65e68b6d9803
+      internalID: 153126772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_02
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 168
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5010d85690ebf46a54172967b5cafd
+      internalID: -1151249240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_03
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 168
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05b77ef84fe4e846bb42d1975c87ce4
+      internalID: -208912483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_04
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 167
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ee80bafefa90e4ba2f032d93586263
+      internalID: -1326773551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_05
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4ba3ac4c90144aaf949b13e20a10e
+      internalID: 2018596767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_up_06
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdecd3a523a3e240a25d3a98cea5ba2
+      internalID: 960690003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_up_01
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 170
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15d098c0fe97a14bb597acdbedf266e
+      internalID: -624979712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_up_02
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 170
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33691d21dfac32848814c9add572b887
+      internalID: 541253439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_01
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 104
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9df70d93701c4aa1d9387b76002e8
+      internalID: 926652671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_02
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 104
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad68fb7004af947900f86496c7445f
+      internalID: 1033181182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_03
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28386e983a176b046a8be9d64b0faaa0
+      internalID: -511567917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_04
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 104
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32562abc65af214a9806571987830bc
+      internalID: 183618747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_05
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 104
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37800f1cb9274514881a0fc2b9d06d03
+      internalID: 608412767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_right_06
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 103
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071754aacbf8e274b9a503ceff3853e9
+      internalID: -1662591964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_right_01
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 106
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b6f4a59a02c154f876705a1ec6ec46
+      internalID: -1352880927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_right_02
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 106
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0779f9febaad58f4a9deac08946c7e5b
+      internalID: -1370716344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_01
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a911d1fe10f451f4bb8022a37c54dd0a
+      internalID: 1345091035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_02
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a73d0ca90c384ba8e7bf7e8fb24fb
+      internalID: 113080880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_03
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 39
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5e7c571ad02144cb205def625522de
+      internalID: 1504199445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_04
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d3b2b2aba9dc49b2d6189ae2679f2
+      internalID: -314760605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_05
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 40
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b6d2953ca660942a5e247cc9599f11
+      internalID: -787528472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_walk_left_06
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 39
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e6970af3ece9a4eadd0cc5e1a13389
+      internalID: -317226950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_left_01
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 42
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbaef37fdea7195409c609ca579b185b
+      internalID: -2071140693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hairm_run_left_02
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 42
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cc3c299ff0be5498cb66629f1f8c3c
+      internalID: 1572956778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      hairm_iddle_down: -1709368022
+      hairm_iddle_left: -1253656998
+      hairm_iddle_right: 315372655
+      hairm_iddle_up: 1441270887
+      hairm_jump_down_01: 631279155
+      hairm_jump_down_02: -505140523
+      hairm_jump_down_03: 711528148
+      hairm_jump_left_01: -1460957229
+      hairm_jump_left_02: -285864606
+      hairm_jump_left_03: 1385001741
+      hairm_jump_right_01: -628692564
+      hairm_jump_right_02: 833519771
+      hairm_jump_right_03: 1989564327
+      hairm_jump_up_01: -487773668
+      hairm_jump_up_02: -2117496388
+      hairm_jump_up_03: 1559141464
+      hairm_pull_down_01: -785569630
+      hairm_pull_down_02: 1056836155
+      hairm_pull_left_01: -1028624985
+      hairm_pull_left_02: -14896393
+      hairm_pull_right_01: -1938576185
+      hairm_pull_right_02: -1036260071
+      hairm_pull_up_01: 1477666004
+      hairm_pull_up_02: -1257432779
+      hairm_push_down_01: -871268863
+      hairm_push_down_02: -1918649492
+      hairm_push_left_01: 623640903
+      hairm_push_left_02: -1603353836
+      hairm_push_right_01: -1929318477
+      hairm_push_right_02: -2114470041
+      hairm_push_up_01: -507230888
+      hairm_push_up_02: -616614282
+      hairm_run_down_01: -1235906189
+      hairm_run_down_02: -1995569682
+      hairm_run_left_01: -2071140693
+      hairm_run_left_02: 1572956778
+      hairm_run_right_01: -1352880927
+      hairm_run_right_02: -1370716344
+      hairm_run_up_01: -624979712
+      hairm_run_up_02: 541253439
+      hairm_walk_down_01: -712375713
+      hairm_walk_down_02: -158610198
+      hairm_walk_down_03: 275220167
+      hairm_walk_down_04: -1391435329
+      hairm_walk_down_05: -2002657211
+      hairm_walk_down_06: 1864109624
+      hairm_walk_left_01: 1345091035
+      hairm_walk_left_02: 113080880
+      hairm_walk_left_03: 1504199445
+      hairm_walk_left_04: -314760605
+      hairm_walk_left_05: -787528472
+      hairm_walk_left_06: -317226950
+      hairm_walk_right_01: 926652671
+      hairm_walk_right_02: 1033181182
+      hairm_walk_right_03: -511567917
+      hairm_walk_right_04: 183618747
+      hairm_walk_right_05: 608412767
+      hairm_walk_right_06: -1662591964
+      hairm_walk_up_01: 153126772
+      hairm_walk_up_02: -1151249240
+      hairm_walk_up_03: -208912483
+      hairm_walk_up_04: -1326773551
+      hairm_walk_up_05: 2018596767
+      hairm_walk_up_06: 960690003
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
