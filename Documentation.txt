@@ -1,0 +1,67 @@
+Controls: WASD and mouse left, middle and right click.
+In this document, I will explain the various details and mistakes I have done in this 48-hour technical test, in the attempt of recreating Stardew Valley.
+First. The managers.
+
+Audio Manager
+Incomplete, it was supposed to be my manager to music in general while playing. I did not have time to adjust to an Audio Manager of quality so you could ignore this manager for the moment until (I expect) some time in future I update this repository as a fun practice game.
+
+ManagerCharacterAndObjectives
+Incomplete, this manager misses the objectives’ part, as to my original plan was. Example: To have a mini tutorial/objective to complete. In the while, is one of the chunkiest and fattest part of my code.
+To try to explain it in simple words as to what is working and doing right now in this version, this one communicates with the player (CharacterController.cs) and UI (QuickInventoryScript.cs), mainly in the inventory part. It communicates with the QuickInventoryBar which is the bar that displays under with all the tools that you have for the moment (as to obtaining each tool and expanding this quickinventory was not done in time). So you have all the tools to use at the beginning to use. It does thing as to update visual of bucket filling and using it, the quantity of seeds. As well as allow/block controls when there was (supposed to be, didn’t have time) a initial cutscene and cutscene between resting. For some strange reason I added a function of PassDay which updates all the crops between days, instead of moving it to ManagerSaving (later explained) or a Manager of day cicle.
+
+ManagerSaving
+This was supposed to be a saving method and extraction of information of ManagerCharacterAndObjectives to have a huge class of all the data information for saving when Quitting and saving and Loading the game. There’s pure bones of what data has and needs to save about. It also has the defitions of classes of Item (named ItemStats ‘cause Unity was a pain with “Item” is also used in Unity data? And caused problems) and inventory that uses ManagerCharacterAndObjectives.
+
+PlantDictionary
+This “Dictionary” gives info such as names, enums types and else, to complete the seed planting in CharacterController and the ManagerCharacterAndObjectives. Also, defines the different data structures for plants such a grow state, that needs to be updated so you have different times of growing and else, instead of having a fixing grow rate of 2 days for all plants.
+
+Miscellaneous
+Interactable
+Kind of an interface, this one allows you to interact in 3 options: bucket (water the plants and pick water), hoe (collecting the full grow plant) and seed (farm). I discarded a 4th interaction such as talking and completing favours as to there was no time and I needed to send this before I was late, well, later (sorry).
+TimerDeActivateObjects
+Timer to deactive or activate objects as needed.
+
+UI
+Blink Text
+Helps better blinking of text than the one in unity incorporate, I wanted to be more smooth, but again, I’m repeating to much, I did not have time.
+ChangeQuantityItem
+Change the text of quantity in text. I forgot I did this and did implement this kind of code multiple times instead of using this one.
+CustomizationScript
+All the customization in the main menu that you can have. It was supposed to have communication with ManagerCharacterAndObjectives to later communicate with ManagerSave, so it reflects your choices in the main game.
+Drag
+Used in the images of Drag with an EventHandler of unity to drag the images and swap slots between them, in the AllInventory (the 8 slots inventory that you open with middle click)
+InventoryUpdateUI
+Updates the inventory as to what is being collected by the player. Not the same as QuickInventory where are the tools.
+QuickInventoryScript
+Updates the UI of QuickInventory as to how many seed you have, bucket is filled or not, which item is selected. Could be a Event Listener but I referenced directly this kind of values with dirty/hard code.
+
+CharacterController
+Sends the message to UI and other Managers as what is doing/using, controls the animator and Rigidbody2D to move.
+
+HouseScript
+Handler to show the menu of “Do you want to sleep?” with a Trigger Collider. Could be done better with Events and Listeners.
+
+PossibleFarms
+Initially, was a possible use of the hoe as to create new holes to farm/plant. But was used finally to save the information of the plant that is growing inside.
+
+ScriptablePlant
+Scriptable that allows to create new kind of plants and also has some data structures for the plants.
+
+Final comments
+
+I will address this as two parts, first:
+Missing codes and features
+•	I had and idea of replicate the fishing part in Stardew Valley, but due to having the farm more importantly than fishing, I did not even begin this part of code or visuals for the feature
+•	Collect bugs was also a missing part with a net.
+•	There is no quit game menu, so you will have to Alt+F4 the game. There is no pause to the game
+•	There is no saving/loading feature, load and new game does the same
+•	There is no talking to an NPC even though some structure can be seen in other parts of the code and can be implemented more easily
+•	I implement some part of the Cinemachine to control the camera and save me some time doing a code for the camera follow up to the character. But I missed the Cut-scenes that can be done with such an amazing feature of unity
+•	I wanted to implement the day/night cycle, and with that a year round feature.
+•	There is no commerce in game because there is no talking to NPC
+•	There had to be a better management in how the sprites are rendered in each layer and order, but has some visual glitches that catches the player “under” background sprites.
+Critics to myself
+•	I had the bad habit of hard coding and then cleaning my code as for the sake of doing the feature first.
+•	I had clean split between what is managing what, so it’s easy to see how the limits and interactions are but can be done with less lines of codes using better my managers or other kind of tricks.
+•	I did not spaghetti my code in some parts, but others…
+•	This was fun. Thank you for the opportunity.

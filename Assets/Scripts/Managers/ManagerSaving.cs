@@ -92,8 +92,4 @@ public class ManagerSaving : MonoBehaviour
 
         DontDestroyOnLoad(gameObject);
     }
-
-    public void AddToInventory() {
-
-    }
 }
