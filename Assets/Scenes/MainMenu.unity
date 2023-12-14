@@ -6636,6 +6636,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ManagerCharacterAndObjectives
       objectReference: {fileID: 0}
+    - target: {fileID: 420030845528509842, guid: 9fc1d3b8ae0cf6c48b0abbddbff939eb, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4818982669668402593, guid: 9fc1d3b8ae0cf6c48b0abbddbff939eb, type: 3}
       propertyPath: m_RootOrder
       value: 4

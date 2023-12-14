@@ -4,9 +4,7 @@ using Unity.VisualScripting;
 using UnityEngine;
 
 using PlayerStuff;
-using static UnityEditor.Progress;
 using PlantsSpaceName;
-using Unity.Burst.Intrinsics;
 
 public class ManagerCharacterAndObjectives : MonoBehaviour
 {
@@ -132,10 +130,6 @@ public class ManagerCharacterAndObjectives : MonoBehaviour
         }
     }
 
-    public void AddItemInventory(Item item)
-    {
-
-    }
 
     public void AddItemInventory(PlantName name)
     {
